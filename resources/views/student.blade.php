@@ -67,8 +67,8 @@
 				</div>
 				<div class="col">
                     <div class="col">
-                        <label for="registration" class="text-success">Registration Number</label>
-                        <input type="number" name="registration" placeholder="Registration Number" class="form-control form-control-sm" required>
+                        <label for="registration" class="text-success">Registration Number(Aadhar Card/PAN):</label>
+                        <input type="number" name="registration" placeholder="Registration Number(Aadhar Card/PAN):" class="form-control form-control-sm" required>
                     </div></div>
 			</div><br>
             <div class="form-row">

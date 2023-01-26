@@ -135,7 +135,7 @@
            <tr>
              <th>No.</th>
              <th>Student Name</th>
-             <th>Reg. No.</th>
+             <th>Email.</th>
              <th>Marks</th>
            </tr>
          </thead>
@@ -147,7 +147,7 @@
            <tr>
              <td>{{$i}}</td>
              <td>{{$r->student->name}}</td>
-             <td>{{$r->student->registration}}</td>
+             <td>{{$r->student->email}}</td>
              <td>{{$r->score}}</td>
            </tr>
            @php $i++ @endphp

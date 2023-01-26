@@ -138,7 +138,7 @@
 							<tr>
 								<th>No.</th>
 								<th>Name</th>
-								<th>Reg. No</th>
+								<th>Email</th>
 								<th>Score</th>
 								<!--<th>Percentage</th>-->
 							</tr>
@@ -150,7 +150,7 @@
 	            <tr>
 	              <td>{{$i}}</td>
 	              <td>{{$r->student->name}}</td>
-	              <td>{{$r->student->registration}}</td>
+	              <td>{{$r->student->email}}</td>
 	              <td>{{$r->score}}</td>
 								<!--@if($r->marks)
 								<td>{{(($r->score)*100)/($r->marks)}}%</td>
