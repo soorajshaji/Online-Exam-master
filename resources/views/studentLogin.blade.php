@@ -19,7 +19,7 @@
 
 
                   @csrf
-                    <h2 class="text-success text-uppercase text-center">Student Login</h2> <br>
+                    <h2 class="text-success text-uppercase text-center">CANDIDATE Login</h2> <br>
                   <div class="form-group">
                     <label for="exampleInputEmail1" class="text-success">Email</label>
                     <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email" required>

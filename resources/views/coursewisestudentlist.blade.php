@@ -17,7 +17,7 @@
 							<a href="{{route('teacherdash')}}" class="text-white" style="text-decoration: none;"><i class="fas fa-home"></i> DASHBOARD</a>
 						</li><hr style="border-color: white;">
 						<li>
-							<a href="#" class="text-white dropdown-toggle" data-toggle="dropdown" rule="button" style="text-decoration: none;"><i class="fas fa-graduation-cap"></i> STUDENTS</a>
+							<a href="#" class="text-white dropdown-toggle" data-toggle="dropdown" rule="button" style="text-decoration: none;"><i class="fas fa-graduation-cap"></i> CANDIDATE</a>
 							<ul class="dropdown-menu bg-success">
 								<li class="dropdown-item"><a href="{{route('coursewisestudentlist')}}" class="dropdown-link text-white" style="text-decoration: none;">Coursewise List</a></li>
 								<li class="dropdown-item"><a href="{{route('overollstudentlist')}}" class="dropdown-link text-white" style="text-decoration: none;">Overall List</a></li>
@@ -54,12 +54,12 @@
 				<div class="col-9 col-sm-7  col-xs-6 col-md-9 rounded-right studentDah" style="background-color: white;" >
 
 					<div class="mt-3">
-						<h6 class="text-primary">Home / <span class="text-white">Student List</h6>
+						<h6 class="text-primary">Home / <span class="text-white">CANDIDATE List</h6>
 						<hr>
 					</div>
 
 					<div>
-						<h3 class="text-info mb-3">Courewise Student List</h3>
+						<h3 class="text-info mb-3">Courewise CANDIDATE LIST</h3>
 						<hr>
 					</div>
 

@@ -16,6 +16,9 @@
       <li class="nav-item">
         <a href="{{route('studentLogin')}}" class="dropdown-item text-white">LOGIN</a>
       </li>
+      <li class="nav-item">
+        <a href="{{url('adminLogin')}}" class="dropdown-item text-white">ADMIN</a>
+      </li>
 
 
 

@@ -13,7 +13,7 @@
 					<a href="{{route('teacherdash')}}" class="text-white" style="text-decoration: none;"><i class="fas fa-home"></i> DASHBOARD</a>
 				</li><hr style="border-color: white;">
 				<li>
-					<a href="{{route('studentno')}}" class="text-white" style="text-decoration: none;"><i class="fas fa-graduation-cap"></i> STUDENTS</a>
+					<a href="{{route('studentno')}}" class="text-white" style="text-decoration: none;"><i class="fas fa-graduation-cap"></i> CANDIDATE</a>
 
 				</li><hr style="border-color: white;">
 				<li>

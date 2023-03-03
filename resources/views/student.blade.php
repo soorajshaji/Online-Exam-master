@@ -4,7 +4,7 @@
 
 		<hr style="border-color: mediumseagreen;">
 
-		<h2 class="text-center text-uppercase text-success mt-3">Student Registration</h2> <br><br>
+		<h2 class="text-center text-uppercase text-success mt-3">CANDIDATE Registration</h2> <br><br>
 
 		<form action="{{route('studentInformation')}}" method="post">
 

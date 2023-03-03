@@ -38,7 +38,7 @@
 					</div><hr>
 
 					<div>
-						<h4>Welcome to online Examination Portal</h4>
+						<h4>Welcome to Learner's Examination Portal</h4>
 					</div><hr>
 
 					<br><br><br>

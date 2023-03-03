@@ -16,8 +16,10 @@
    return view('homepage');
 });*/
 
-
-Route::get('/','myController@homepage')->name('homepage')->middleware('guest');
+Route::get('/',function(){
+    return view('welcome1');
+});
+Route::get('/home','myController@homepage')->name('homepage')->middleware('guest');
 Route::get('/about','myController@about')->name('about');
 
 Route::get('/upcomingExam','myController@upcomingExam')->name('upcomingExam');

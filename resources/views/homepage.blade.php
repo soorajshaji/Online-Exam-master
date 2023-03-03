@@ -36,7 +36,7 @@
                 </li><br>
 
             </ul>
-            
+
 
             <a href="/studentLogin"><button  type="submit" class="btn btn-success btn-block">Apply</button></a>
         </div>

@@ -53,12 +53,12 @@
 				<div class="col-9 col-sm-7  col-xs-6 col-md-9 rounded-right studentDah" style="background-color: white;" >
 
 					<div class="mt-3">
-						<h6 class="text-primary">Home / <span class="text-white">Student List</h6>
+						<h6 class="text-primary">Home / <span class="text-white">CANDIDATE LIST</h6>
 						<hr>
 					</div>
 
 					<div>
-						<h3 class="text-info mb-3">Overall Student List</h3>
+						<h3 class="text-info mb-3">Overall CANDIDATE LIST</h3>
 						<hr>
 					</div>
 
